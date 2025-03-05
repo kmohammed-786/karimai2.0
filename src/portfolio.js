@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Rashmi Dadapur",
+  title: "Hi all, I'm Rashmi",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
@@ -126,7 +126,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "The College of SaintRose",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
@@ -137,7 +137,7 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "G. Narayanamma institute of Science and Technology",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2013 - April 2017",
